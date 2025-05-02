@@ -28,7 +28,19 @@ Implementación del Juego de la Vida de Conway con modos individual y multijugad
 - **Botón Reiniciar**: Vuelve a la fase inicial
 - **Botón Pausa**: Detiene la simulación
 
-[![Descargar Beta](https://img.shields.io/badge/GameOfLife-Beta_v1.0-blue)](https://github.com/Davidestroy/GameOfLife/releases/download/v1.0.0-beta/GameOfLife-beta-v1.0.apk)
+## 📲 Descarga la Versión Beta
+
+Prueba la versión preliminar del juego instalando el APK directamente en tu dispositivo Android:
+
+[![Botón de Descarga](https://img.shields.io/badge/Descargar_APK-GameOfLife_Beta_v1.0-0078D7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Davidestroy/GameOfLife/releases/download/v1.0.0-beta/GameOfLife-beta-v1.0.apk)
+
+**Instrucciones de instalación**:
+1. Descarga el archivo APK haciendo clic en el botón superior
+2. En tu Android, ve a **Ajustes > Seguridad** y activa "Instalar aplicaciones desconocidas"
+3. Abre el archivo descargado y selecciona "Instalar"
+4. ¡Disfruta del juego y reporta cualquier bug!
+
+*Nota: Esta es una versión beta - algunas características pueden estar en desarrollo.*
 
 ## Tecnologías Utilizadas
 - Flutter 3.x
