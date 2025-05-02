@@ -28,6 +28,8 @@ Implementación del Juego de la Vida de Conway con modos individual y multijugad
 - **Botón Reiniciar**: Vuelve a la fase inicial
 - **Botón Pausa**: Detiene la simulación
 
+[![Descargar Beta](https://img.shields.io/badge/GameOfLife-Beta_v1.0-blue)](https://github.com/Davidestroy/GameOfLife/releases/download/v1.0.0-beta/GameOfLife-beta-v1.0.apk)
+
 ## Tecnologías Utilizadas
 - Flutter 3.x
 - Flame 1.x
