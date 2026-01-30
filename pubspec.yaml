@@ -1,16 +1,18 @@
 name: gameoflife
 description: A Flutter implementation of Conway's Game of Life.
 
-publish_to: 'none'
+publish_to: "none"
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   provider: ^6.0.0
-  flame: ^1.13.0
+  flutter_glow: ^0.3.2
+  shared_preferences: ^2.2.2
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:

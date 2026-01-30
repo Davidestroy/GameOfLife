@@ -1,0 +1,2 @@
+C:/Users/USR/StudioProjects/gameoflife/android/app/.cxx/Debug/6p1w212x/x86/CMakeFiles/edit_cache.dir
+C:/Users/USR/StudioProjects/gameoflife/android/app/.cxx/Debug/6p1w212x/x86/CMakeFiles/rebuild_cache.dir

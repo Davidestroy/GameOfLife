@@ -1,0 +1,1 @@
+C:\Users\USR\StudioProjects\gameoflife\build\app\intermediates\cxx\Debug\6p1w212x\obj\arm64-v8a
